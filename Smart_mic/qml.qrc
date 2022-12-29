@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SCreen.qml</file>
+        <file>heart.gif</file>
+    </qresource>
+</RCC>
